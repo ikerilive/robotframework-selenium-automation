@@ -13,7 +13,9 @@ pip install robotframework seleniumlibrary
 
 ## Running the test
 export SHOP_USERNAME="myemail@example.com"
+
 export SHOP_PASSWORD="mypassword"
+
 robot shop_tests.robot
 
 
